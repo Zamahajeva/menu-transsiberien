@@ -1,14 +1,14 @@
 <div class="container mx-auto mt-28">
     <!----------------- ENTREE ----------------------->
-    <h2 class="text-4xl font-serif">Entrée</h2>
+    <h2 class="text-2xl lg:text-4xl font-serif">Entrée</h2>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold">Oukha</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">8,9 €</div>
+                <div class="w-16 font-sans font-bold">8,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -16,13 +16,13 @@
                 </p>
             </div>
         </div>
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Crêpe à la sibérienne</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">8,9 €</div>
+                <div class="w-16 font-sans font-bold">8,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -30,13 +30,13 @@
                 </p>
             </div>
         </div>
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Tartare de sandre de l'Amou-Daria</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">8,9 €</div>
+                <div class="w-16 font-sans font-bold">8,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -44,13 +44,13 @@
                 </p>
             </div>
         </div>
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between">
                 <div class="flex flex-row w-full">
                     <div class="font-bold  whitespace-nowrap">Noix de St Jacques façon Mer Noire</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">9,9 €</div>
+                <div class="w-16 font-sans font-bold">9,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -58,13 +58,13 @@
                 </p>
             </div>
         </div>
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Pirojki (végétarien)</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">7,9 €</div>
+                <div class="w-16 font-sans font-bold">7,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -72,13 +72,13 @@
                 </p>
             </div>
         </div>
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between">
                 <div class="flex flex-row w-full">
                     <div class="font-bold  whitespace-nowrap">Okroshka</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">7,9 €</div>
+                <div class="w-16 font-sans font-bold">7,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -89,15 +89,15 @@
     </div>
 
     <!----------------- PLAT ----------------------->
-    <h2 class="text-4xl font-serif mt-8">Plat</h2>
+    <h2 class="text-2xl lg:text-4xl font-serif mt-8">Plat</h2>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Boeuf Stroganov</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">18,5 €</div>
+                <div class="w-16 font-sans font-bold">18,5 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -107,13 +107,13 @@
         </div>
     </div>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Canard façon tsar</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">22,9 €</div>
+                <div class="w-16 font-sans font-bold">22,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -123,13 +123,13 @@
         </div>
     </div>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Gratin de berger de taïga</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">18,5 €</div>
+                <div class="w-16 font-sans font-bold">18,5 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -139,13 +139,13 @@
         </div>
     </div>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Saumon à la Pojarski</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">18,9 €</div>
+                <div class="w-16 font-sans font-bold">18,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -155,13 +155,13 @@
         </div>
     </div>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Grecciotto aux champignons (Végétarien)</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">15,5 €</div>
+                <div class="w-16 font-sans font-bold">15,5 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
@@ -171,13 +171,13 @@
         </div>
     </div>
     <div class="mt-4">
-        <div class="flex flex-col text-lg mt-2">
+        <div class="flex flex-col text-sm lg:text-lg mt-2">
             <div class="flex flex-row justify-between ">
                 <div class="flex flex-row w-full">
                     <div class="font-bold whitespace-nowrap">Saucisse de Kazan</div>
                     <div class="border-gray-300 border-dotted border-b w-full m-1 ml-4 mr-4"></div>
                 </div>
-                <div class="w-32 font-sans font-bold">17,9 €</div>
+                <div class="w-16 font-sans font-bold">17,9 €</div>
             </div>
             <div>
                 <p class="font-serif text-gray-600">
