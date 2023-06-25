@@ -1,3 +1,6 @@
+/**
+ * Cette fonction est appelé pour charger les données de la page, à la fois en front et en back.
+ */
 export function load() {
     return {
         entrees: [
@@ -65,6 +68,32 @@ export function load() {
             },
         ],
         desserts: [
+            {
+                plat: 'Le Colonel',
+                description: 'Coupe de sorbet au citron (3 boules) arrosé avec de la vodka.',
+                prix: 8.5,
+            },
+            {
+                plat: 'Gâteau au miel "Raïssa"',
+                description: 'Dessert traditionnel où de la crème chantilly maison s\'alterne à plusieurs couches de biscuit au miel.',
+                prix: 7.5,
+            },
+            {
+                plat: 'Pavlova',
+                description: 'Dessert à base de meringue nappé de crème fouettée et parsemé de fruits rouges.',
+                prix: 7.9,
+            },
+            {
+                plat: 'Syrniki comme chez ma grand-mère',
+                description: 'Une sorte de beignet à base de fromage frais, de farine et d\'œufs. Servi avec une boule de sorbet framboise.\n' +
+                    'Grafskie Razvalini\n',
+                prix: 7.9,
+            },
+            {
+                plat: 'Grafskie Razvalini',
+                description: 'Petit chou rempli de crème vanille, meringue aux noix de cajou, framboises, sauce au fromage blanc et lait concentré sucré.',
+                prix: 7.9,
+            },
 
         ]
     };
