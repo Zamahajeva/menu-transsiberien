@@ -2,7 +2,7 @@
     export let data;
 </script>
 
-<div class="container mx-auto mt-28 pl-2 pr-2 md:pl-0 md:pr-0">
+<div class="container mx-auto mt-28 pl-2 pr-2 md:pl-0 md:pr-0 overflow-x-hidden">
     <!----------------- ENTREE ----------------------->
     <h2 class="text-2xl lg:text-4xl font-serif">Entrée</h2>
     <div class="mt-4">
